@@ -1,2 +1,3 @@
 # specimen-digitization-glossary
-Moved to new repository
+This repository has moved to <https://github.com/ben-norton/collections-digitization-glossary>
+
